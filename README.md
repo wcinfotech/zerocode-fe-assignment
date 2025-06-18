@@ -31,5 +31,9 @@ This is a chatbot web app built using React (Vite), TypeScript, and Tailwind CSS
 ```bash
 npm install
 npm run dev
-Email: demo@zerocode.com
+## 🧪 Test Credentials
+Email: demo@zerocode.com  
 Password: Demo123!
+## 🔗 Live Demo  
+https://your-vercel-url.vercel.app
+
